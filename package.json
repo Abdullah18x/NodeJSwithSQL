@@ -1,0 +1,18 @@
+{
+  "name": "nodejswithsql",
+  "version": "1.0.0",
+  "description": "A tempelate for Nodejs to get started. Integrated with express and SQL2 out of the box",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Abdullah18x",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  }
+}
